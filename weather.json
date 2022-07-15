@@ -1,0 +1,31 @@
+[{
+  "id":111,
+  "zip" : 411057,
+  "city" : "Pune",
+  "temperature" : "20",
+  "climate" : "Cloudy / Rain Drizzle",
+  "airQuality" : "Excellent",
+  "wind" : "WSW 23Km/h",
+  "alert" : "Orange",
+  "image" : "cloudy.png"
+},{
+    "id":222,
+    "zip" : 400001,
+    "city" : "Mumbai",
+    "temperature" : "22",
+    "climate" : "Heavy Rainfall",
+    "airQuality" : "Good",
+    "wind" : "WSW 25Km/h",
+    "alert" : "Red",
+    "image" : "rainy.png"
+},{
+   "id":333,
+   "zip" : 110001,
+   "city" : "Delhi",
+   "temperature" : "18",
+   "climate" : "Sunny",
+   "airQuality" : "Poor",
+   "wind" : "WSW 29Km/h",
+   "alert" : "Orange",
+   "image" : "sunny.png"
+   }]
