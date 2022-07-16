@@ -17,6 +17,7 @@ sub, sup{
     margin-left: -10px;
     padding: 7px 11px;
     position: relative;
+    border-radius: 10px;
 }
 .logo-section img{
     width: 30%;
@@ -106,6 +107,7 @@ sub, sup{
 .weather-card .infoparent .otinfo p{
     background: #f5f5f5;
     padding: 7px 15px;
+    font-size: 14px;
 }
 .weather-card .otinfo span{
     font-size: 10px;
